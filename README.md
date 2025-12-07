@@ -12,3 +12,11 @@ cd HELP
 يقوم بضغط كل مجلد موجود في نفس مسار تشغيله إلى ملف ZIP يحمل نفس اسم المجلد
 # FixAltGr.ps1
 سكريبت PowerShell يعدّل سجل النظام ليجعل مفتاح Alt اليمين (AltGr) يعمل كوظيفة Alt اليسار
+# activated.ps1
+تفعيل ويندوز واوفيس 
+# run ps1 files
+يجيب تشغيل امر 
+```
+Set-ExecutionPolicy RemoteSigned -Scope Process -Force
+```
+in powershell with admin
